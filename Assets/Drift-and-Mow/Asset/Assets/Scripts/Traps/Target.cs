@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Target : MonoBehaviour
 {
+    [SerializeField] ParticleSystem hiteffectPrefab;
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Player"))
@@ -12,8 +13,10 @@ public class Target : MonoBehaviour
                 GameManager.Instance.CollectCoin();
                 GameManager.Instance.TargetDestroyed();
             }
-
-            Destroy(gameObject,0.6f); // Destroy this target
+            // Play hit effect
+            ParticleSystem ps = Instantiate(hiteffectPrefab, collision.transform.position, Quaternion.identity);
+            ps.Play();
+            Destroy(gameObject); // Destroy this target
         }
     }
 }

@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: ebef7b537fa45da449fef8e347d30901
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 1
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Tron Race Arena(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: side #21
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: 98.56499}
+      rotation: {x: -0.000000026718968, y: 0.7064095, z: 0.000000026666351, w: 0.70780337}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: track #15
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: 98.56499}
+      rotation: {x: -0.000000026718968, y: 0.7064095, z: 0.000000026666351, w: 0.70780337}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent #31
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: 98.56499}
+      rotation: {x: -0.000000026718968, y: 0.7064095, z: 0.000000026666351, w: 0.70780337}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.416391, y: 0, z: 98.57298}
+      rotation: {x: -0.000000026681015, y: 0.7074186, z: 0.000000026704562, w: 0.7067948}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent_longLeftTurn
+      parentName: Tron Race Arena(Clone)
+      position: {x: -39.066555, y: 0, z: -15.524203}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1
+      parentName: Tron Race Arena(Clone)
+      position: {x: -2.7030334, y: 0, z: 100.13612}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent2
+      parentName: Tron Race Arena(Clone)
+      position: {x: 3.626269, y: 0, z: 100.13726}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium #27
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: 98.56499}
+      rotation: {x: -0.000000026718968, y: 0.7064095, z: 0.000000026666351, w: 0.70780337}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.416391, y: 0, z: 98.57298}
+      rotation: {x: -0.000000026681015, y: 0.7074186, z: 0.000000026704562, w: 0.7067948}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium_longLeftTurn
+      parentName: Tron Race Arena(Clone)
+      position: {x: -39.066555, y: 0, z: -15.524203}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1
+      parentName: Tron Race Arena(Clone)
+      position: {x: -2.7030334, y: 0, z: 100.13612}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium2
+      parentName: Tron Race Arena(Clone)
+      position: {x: 3.626269, y: 0, z: 100.13726}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: 6.791542, y: 0, z: 100.13785}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: 6.791542, y: 0, z: 100.13785}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: 0.46331915, y: 0, z: 100.136696}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: 0.46331915, y: 0, z: 100.136696}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: 9.957841, y: 0, z: 100.13843}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: 9.957841, y: 0, z: 100.13843}
+      rotation: {x: -0.000000026703523, y: 0.7070424, z: 0.000000026698661, w: 0.70717114}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent2.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -43.821445, y: 0, z: 8.31333}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium2.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -43.821445, y: 0, z: 8.31333}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent2.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661434, y: 0, z: 68.399086}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium2.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661434, y: 0, z: 68.399086}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: track #15.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.407463, y: 0, z: 98.574615}
+      rotation: {x: -0.7067948, y: -0.00000013068676, z: 0.7074186, w: -0.00000013062603}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: side #21.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.407463, y: 0, z: 98.574615}
+      rotation: {x: -0.7067948, y: -0.00000013068676, z: 0.7074186, w: -0.00000013062603}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: -43.820305, y: 0, z: -1.234688}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: auditorium1.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: -43.820305, y: 0, z: -1.234688}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: side #57
+      parentName: Tron Race Arena(Clone)
+      position: {x: -38.9836, y: 0, z: -15.4571905}
+      rotation: {x: 1, y: 0, z: 0, w: 0.00000019470718}
+      scale: {x: -9.17861, y: -9.17861, z: -9.17861}
+    - name: track #35
+      parentName: Tron Race Arena(Clone)
+      position: {x: -43.820206, y: 0, z: 0.44857195}
+      rotation: {x: 1, y: 0, z: 0, w: 0.00000019470718}
+      scale: {x: -11.074841, y: -11.074841, z: -54.264503}
+    - name: track #44
+      parentName: Tron Race Arena(Clone)
+      position: {x: -38.9836, y: 0, z: -15.4571905}
+      rotation: {x: 1, y: 0, z: 0, w: 0.00000019470718}
+      scale: {x: -9.17861, y: -9.17861, z: -9.17861}
+    - name: translucent1.005
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.6603, y: 0, z: 77.94044}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -45.542736}
+    - name: track #35.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.660194, y: 0, z: 76.25719}
+      rotation: {x: 1.9939422e-16, y: 1, z: -0.0000000059624403, w: 0.00000004371139}
+      scale: {x: 11.074841, y: 11.074841, z: 54.264503}
+    - name: auditorium1.005
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.6603, y: 0, z: 77.94044}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -45.542736}
+    - name: translucent_longLeftTurn.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.90655, y: 0, z: 92.238266}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: track #44.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.823595, y: 0, z: 92.171265}
+      rotation: {x: 1.9939424e-16, y: 1, z: -0.0000000059624408, w: 0.00000004371139}
+      scale: {x: 9.17861, y: 9.17861, z: 9.17861}
+    - name: side #57.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.823595, y: 0, z: 92.171265}
+      rotation: {x: 1.9939424e-16, y: 1, z: -0.0000000059624408, w: 0.00000004371139}
+      scale: {x: 9.17861, y: 9.17861, z: 9.17861}
+    - name: auditorium_longLeftTurn.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.90655, y: 0, z: 92.238266}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent_turnRight.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: 25.70933}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent_longLeftTurn.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -39.066555, y: 0, z: 16.206158}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: track #44.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -38.9836, y: 0, z: 16.139133}
+      rotation: {x: 1.9939424e-16, y: 1, z: -0.0000000059624408, w: 0.00000004371139}
+      scale: {x: 9.17861, y: 9.17861, z: 9.17861}
+    - name: track.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: 25.70933}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: side #57.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -38.9836, y: 0, z: 16.139133}
+      rotation: {x: 1.9939424e-16, y: 1, z: -0.0000000059624408, w: 0.00000004371139}
+      scale: {x: 9.17861, y: 9.17861, z: 9.17861}
+    - name: side.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: 25.70933}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium_turnRight.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: 25.70933}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium_longLeftTurn.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -39.066555, y: 0, z: 16.206158}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent_turnRight.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: -25.027426}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: track.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: -25.027426}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: side.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: -25.027426}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium_turnRight.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -26.412792, y: 0, z: -25.027426}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent2.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661434, y: 0, z: 49.40673}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.6603, y: 0, z: 58.94811}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -45.542736}
+    - name: track #35.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.660194, y: 0, z: 57.264847}
+      rotation: {x: 1.9939422e-16, y: 1, z: -0.0000000059624403, w: 0.00000004371139}
+      scale: {x: 11.074841, y: 11.074841, z: 54.264503}
+    - name: auditorium2.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661434, y: 0, z: 49.40673}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.6603, y: 0, z: 58.94811}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -45.542736}
+    - name: translucent2.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 39.93117}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.007
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 46.262745}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.008
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 36.768223}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.009
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 43.09644}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent1.010
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 33.60187}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium2.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 39.93117}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.007
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 46.262745}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.008
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 36.768223}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.009
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 43.09644}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium1.010
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661406, y: 0, z: 33.60187}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: track #35.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.660194, y: 0, z: 39.884464}
+      rotation: {x: 1.9939422e-16, y: 1, z: -0.0000000059624403, w: 0.00000004371139}
+      scale: {x: 11.074841, y: 11.074841, z: 45.11921}
+    - name: translucent_longLeftTurn.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.90655, y: 0, z: -56.747387}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent2.005
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661434, y: 0, z: -32.90819}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.011
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.6603, y: 0, z: -42.449566}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: track #44.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.823595, y: 0, z: -56.68037}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.17861, y: -9.17861, z: -9.17861}
+    - name: track #35.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.660194, y: 0, z: -40.766308}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -11.074841, y: -11.074841, z: -54.264503}
+    - name: side #57.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.823595, y: 0, z: -56.68037}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.17861, y: -9.17861, z: -9.17861}
+    - name: auditorium_longLeftTurn.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: -16.90655, y: 0, z: -56.747387}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium2.005
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.661434, y: 0, z: -32.90819}
+      rotation: {x: -1.6500591e-15, y: -0.00000003774895, z: 1, w: 0.00000004371139}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.011
+      parentName: Tron Race Arena(Clone)
+      position: {x: -21.6603, y: 0, z: -42.449566}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: track #35.005
+      parentName: Tron Race Arena(Clone)
+      position: {x: 3.5982175, y: 0, z: 100.12742}
+      rotation: {x: 0.0000000042143475, y: -0.7071712, z: 0.000000004215115, w: 0.70704234}
+      scale: {x: 11.074841, y: 11.074841, z: 46.045345}
+    - name: translucent_longLeftTurn.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.127245, y: 0, z: -56.747383}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent_longLeftTurn.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.127245, y: 0, z: 92.238266}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent2.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: -32.908188}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: translucent2.007
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 39.93117}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent2.008
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: 49.40673}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent2.009
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: 68.399086}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.012
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: -42.44956}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -45.542736}
+    - name: translucent1.013
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 33.60187}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.014
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 43.09644}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.015
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 36.768223}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.016
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 46.262745}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.017
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: 58.94811}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: translucent1.018
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: 77.94044}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: track #44.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.044289, y: 0, z: -56.680367}
+      rotation: {x: -0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 9.17861, y: 9.17861, z: 9.17861}
+    - name: track #44.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.044289, y: 0, z: 92.171265}
+      rotation: {x: 2.6062659e-16, y: 0.0000000059624408, z: 1, w: 0.00000004371139}
+      scale: {x: -9.17861, y: -9.17861, z: -9.17861}
+    - name: track #35.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.88089, y: 0, z: -40.766304}
+      rotation: {x: -0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 11.074841, y: 11.074841, z: 54.264503}
+    - name: track #35.007
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.88089, y: 0, z: 39.884464}
+      rotation: {x: 2.6062656e-16, y: 0.0000000059624403, z: 1, w: 0.00000004371139}
+      scale: {x: -11.074841, y: -11.074841, z: -45.11921}
+    - name: track #35.008
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.88089, y: 0, z: 57.26485}
+      rotation: {x: 2.6062656e-16, y: 0.0000000059624403, z: 1, w: 0.00000004371139}
+      scale: {x: -11.074841, y: -11.074841, z: -54.264503}
+    - name: track #35.009
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.88089, y: 0, z: 76.25719}
+      rotation: {x: 2.6062656e-16, y: 0.0000000059624403, z: 1, w: 0.00000004371139}
+      scale: {x: -11.074841, y: -11.074841, z: -54.264503}
+    - name: side #57.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.044289, y: 0, z: -56.680367}
+      rotation: {x: -0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 9.17861, y: 9.17861, z: 9.17861}
+    - name: side #57.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.044289, y: 0, z: 92.171265}
+      rotation: {x: 2.6062659e-16, y: 0.0000000059624408, z: 1, w: 0.00000004371139}
+      scale: {x: -9.17861, y: -9.17861, z: -9.17861}
+    - name: auditorium_longLeftTurn.004
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.127245, y: 0, z: -56.747383}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium_longLeftTurn.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: 24.127245, y: 0, z: 92.238266}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium2.006
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: -32.908188}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: auditorium2.007
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 39.93117}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium2.008
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: 49.40673}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium2.009
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: 68.399086}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.012
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: -42.44956}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -45.542736}
+    - name: auditorium1.013
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 33.60187}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.014
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 43.09644}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.015
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 36.768223}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.016
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 46.262745}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.017
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: 58.94811}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: auditorium1.018
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: 77.94044}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: translucent2.010
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: 14.640836}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent2.011
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 5.165274}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.019
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: 24.182217}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: translucent1.020
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 11.496845}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.021
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 2.0023255}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.022
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 8.330542}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.023
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -1.1640259}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: track #35.010
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.88089, y: 0, z: 22.498957}
+      rotation: {x: 2.6062656e-16, y: 0.0000000059624403, z: 1, w: 0.00000004371139}
+      scale: {x: -11.074841, y: -11.074841, z: -54.264503}
+    - name: track #35.011
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.88089, y: 0, z: 5.118567}
+      rotation: {x: 2.6062656e-16, y: 0.0000000059624403, z: 1, w: 0.00000004371139}
+      scale: {x: -11.074841, y: -11.074841, z: -45.11921}
+    - name: auditorium2.010
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: 14.640836}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium2.011
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 5.165274}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.019
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: 24.182217}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051384, y: 9.051384, z: 45.542736}
+    - name: auditorium1.020
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 11.496845}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.021
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 2.0023255}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.022
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: 8.330542}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.023
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -1.1640259}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent2.012
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -29.759527}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent2.013
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: -20.28397}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.025
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -26.59426}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.027
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -23.427958}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.028
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: -10.674377}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051382, y: 9.051382, z: 46.094315}
+    - name: track #35.013
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.88089, y: 0, z: -16.97054}
+      rotation: {x: 2.6062656e-16, y: 0.0000000059624403, z: 1, w: 0.00000004371139}
+      scale: {x: -11.07484, y: -11.07484, z: -82.351776}
+    - name: auditorium2.012
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -29.759527}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium2.013
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882135, y: 0, z: -20.28397}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.025
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -26.59426}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.027
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.882103, y: 0, z: -23.427958}
+      rotation: {x: 1, y: 0, z: 0, w: 0.0000000754979}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.028
+      parentName: Tron Race Arena(Clone)
+      position: {x: 28.880999, y: 0, z: -10.674377}
+      rotation: {x: 1.5888268e-15, y: 1, z: 0.00000003774895, w: -0.00000004371139}
+      scale: {x: 9.051382, y: 9.051382, z: 46.094315}
+    - name: translucent2.014
+      parentName: Tron Race Arena(Clone)
+      position: {x: 3.626269, y: 0, z: -64.627045}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.024
+      parentName: Tron Race Arena(Clone)
+      position: {x: 9.957841, y: 0, z: -64.628204}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.026
+      parentName: Tron Race Arena(Clone)
+      position: {x: 0.4633193, y: 0, z: -64.62648}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.029
+      parentName: Tron Race Arena(Clone)
+      position: {x: 6.791542, y: 0, z: -64.627625}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent1.030
+      parentName: Tron Race Arena(Clone)
+      position: {x: -2.7030334, y: 0, z: -64.6259}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent #31.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: -63.054764}
+      rotation: {x: -0.7064095, y: 0.000000047783733, z: 0.70780337, w: -0.000000013939216}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: translucent.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.416391, y: 0, z: -63.062756}
+      rotation: {x: 0.7074187, y: 0.000000023761936, z: -0.70679474, w: -0.000000038058033}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: track #35.012
+      parentName: Tron Race Arena(Clone)
+      position: {x: 3.5982175, y: 0, z: -64.61719}
+      rotation: {x: 0.70717114, y: -0.000000112601356, z: 0.7070424, w: 0.000000050796373}
+      scale: {x: -11.074841, y: -11.074841, z: -46.045345}
+    - name: track #15.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.407463, y: 0, z: -63.064392}
+      rotation: {x: -0.00000008014289, y: 0.70679474, z: 0.00000014185862, w: 0.7074187}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: track #15.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: -63.054764}
+      rotation: {x: -0.7064095, y: 0.000000047783733, z: 0.70780337, w: -0.000000013939216}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: side #21.002
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.407463, y: 0, z: -63.064392}
+      rotation: {x: -0.00000008014289, y: 0.70679474, z: 0.00000014185862, w: 0.7074187}
+      scale: {x: 9.051384, y: 9.051384, z: 9.051384}
+    - name: side #21.003
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: -63.054764}
+      rotation: {x: -0.7064095, y: 0.000000047783733, z: 0.70780337, w: -0.000000013939216}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium2.014
+      parentName: Tron Race Arena(Clone)
+      position: {x: 3.626269, y: 0, z: -64.627045}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.024
+      parentName: Tron Race Arena(Clone)
+      position: {x: 9.957841, y: 0, z: -64.628204}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.026
+      parentName: Tron Race Arena(Clone)
+      position: {x: 0.4633193, y: 0, z: -64.62648}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.029
+      parentName: Tron Race Arena(Clone)
+      position: {x: 6.791542, y: 0, z: -64.627625}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium1.030
+      parentName: Tron Race Arena(Clone)
+      position: {x: -2.7030334, y: 0, z: -64.6259}
+      rotation: {x: -0.70704234, y: -0.0000001280885, z: 0.7071712, w: -0.00000006624024}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium #27.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: 14.690842, y: 0, z: -63.054764}
+      rotation: {x: -0.7064095, y: 0.000000047783733, z: 0.70780337, w: -0.000000013939216}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    - name: auditorium.001
+      parentName: Tron Race Arena(Clone)
+      position: {x: -7.416391, y: 0, z: -63.062756}
+      rotation: {x: 0.7074187, y: 0.000000023761936, z: -0.70679474, w: -0.000000038058033}
+      scale: {x: -9.051384, y: -9.051384, z: -9.051384}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

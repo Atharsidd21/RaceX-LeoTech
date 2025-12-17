@@ -162,7 +162,7 @@ public class GameManager : MonoBehaviour
             }
         }
 
-        //LevelCompletePanel.SetActive(true);
+        LevelCompletePanel.SetActive(true);
         ShowLeaderboard(PlayerPrefs.GetInt(Menu.LeaderboardRank));
         LeaderboardPanel.SetActive(true);
         Time.timeScale = 0f;
@@ -249,7 +249,7 @@ public class GameManager : MonoBehaviour
 
         if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
         {
-             //PlayerPrefs.SetInt(Menu.ShowLeaderBoard, 1);
+             PlayerPrefs.SetInt(Menu.ShowLeaderBoard, 1);
             SceneManager.LoadScene(nextSceneIndex);
         }
     }
