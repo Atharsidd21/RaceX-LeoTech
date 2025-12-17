@@ -69,6 +69,8 @@ public class Menu : MonoBehaviour
 
     private void Start()
     {
+        MusicManager.Instance.PlayMusic(); // Ensure background music starts playing
+
         loadingBar.gameObject.SetActive(false);
         if (PlayerPrefs.GetInt(GotoHome, 0) == 1)
         {
